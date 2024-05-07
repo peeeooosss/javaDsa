@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Searchin2Darrays",
+            "request": "launch",
+            "mainClass": "linear.Searchin2Darrays",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "linear.FindMin",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "StringSearchRange",
+            "request": "launch",
+            "mainClass": "linear.StringSearchRange",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "linear.StringSearch",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "linearSearch",
+            "request": "launch",
+            "mainClass": "linear.linearSearch",
+            "projectName": "javaDsa_f951e9f2"
+        }
+    ]
+}
