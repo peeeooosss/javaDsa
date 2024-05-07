@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "binary1",
+            "request": "launch",
+            "mainClass": "binarySearch.binary1",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
             "name": "binarySearch",
             "request": "launch",
             "mainClass": "binary.binarySearch",
