@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SortedMatrix",
+            "request": "launch",
+            "mainClass": "binarySearch.SortedMatrix",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "RowColMatrix",
+            "request": "launch",
+            "mainClass": "binarySearch.RowColMatrix",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
+            "name": "infiniteArrays",
+            "request": "launch",
+            "mainClass": "binarySearch.infiniteArrays",
+            "projectName": "javaDsa_f951e9f2"
+        },
+        {
+            "type": "java",
             "name": "binary1",
             "request": "launch",
             "mainClass": "binarySearch.binary1",
